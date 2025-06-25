@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(18, 18, 16);
+  color: white;
+}
+
+.card:hover .movie-hover {
+  opacity: 1 !important;
+}
+
+.transition-opacity {
+  transition: opacity 0.3s ease;
+}
+
+@media (max-width: 576px) {
+  .carousel-caption {
+    font-size: 0.85rem;
+    padding: 1rem;
+  }
+
+  .carousel-caption p {
+    display: none; /* hide description text completely on extra small devices */
+  }
+}
+
+.carousel-indicators {
+  bottom: -20px;
+}
+input::placeholder {
+  color: white !important;
+  opacity: 1; /* to make sure it's fully visible */
+}
