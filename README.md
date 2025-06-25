@@ -1,4 +1,4 @@
-# FeaturedMovie Project
+# Featured Movie Project
 
 ![Image](https://github.com/user-attachments/assets/7c2d19c9-b1ec-429e-a7cd-d08b9d2137f0)
 
